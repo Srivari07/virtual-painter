@@ -1,1 +1,1 @@
-# virtual-painter
+# AI Virtual Painter
